@@ -1,0 +1,4 @@
+# DrupalTest
+Jmeter tests for Drupal sites
+
+THIS FOLDER CONTAINS TWO SCRITS FOR PERFORMANCE & FUNCTIONAL TESTS
